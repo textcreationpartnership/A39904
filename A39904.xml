@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baptism for the dead a sermon preach'd before the Lord Mayor and the Court of Aldermen of the city of London, on June the 5th, 1692 / by Simon Ford ...</title>
+            <author>Ford, Simon, 1619?-1699.</author>
+         </titleStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39904</idno><idno type="EEBO-CITATION">12594185</idno>
+  <idno type="VID">64010</idno>
+  <idno type="EEBO-PROQUEST">2248565692</idno>
+  
+            <idno type="STC">Wing F1476</idno>
+            <idno type="STC">ESTC R13623</idno>
+            <idno type="OCLC">12594185</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A39904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64010)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 316:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Baptism for the dead a sermon preach'd before the Lord Mayor and the Court of Aldermen of the city of London, on June the 5th, 1692 / by Simon Ford ...</title>
+                  <author>Ford, Simon, 1619?-1699.</author>
+               </titleStmt>
+               <extent>[2], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. and J. Churchill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Imprimatur, June 15, 1692. Ra. Barker"</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Baptism for the dead --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64010:1"/>
+            <pb facs="tcp:64010:1"/>
+            <p>Baptism for the Dead.</p>
+            <p>A SERMON Preach'd before the LORD MAYOR, AND The Court of Aldermen OF THE CITY of LONDON, On <hi>JƲNE</hi> the <hi>5th</hi> 1692.</p>
+            <p>By SIMON FORD, D. D. and Rector of <hi>Old-Swinford</hi> in <hi>Worcestershire.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>IMPRIMATUR.</p>
+                        <closer>
+                           <dateline>
+                              <date>June 15. 1692.</date>
+                           </dateline>
+                           <signed>RA. BARKER.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>A.</hi> and <hi>J. Churchill,</hi> at the <hi>Black Swan</hi> in <hi>Pater-Noster-Row.</hi>
+               <abbr>MDCXCII</abbr>.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64010:2"/>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <p>
+               <hi>Wherefore, if it do, (according to my hopes,) an<g ref="char:EOLhyphen"/>swer my end; I thought fit to let the World know, whom they are to</hi> Thank <hi>for its</hi> Publication, <hi>by</hi> Dedicating <hi>it to</hi> You, <hi>who have therein, not only obliged those who shall receive Benefit by it, but also the,</hi> Author, <hi>and</hi>
+            </p>
+            <closer>
+               <salute>(My Lord, and Gentlemen)</salute>
+               <signed>Your Servant, In our common Lord and Master Jesus Christ, SIMON FORD.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:64010:2"/>
+            <epigraph>
+               <bibl>
+                  <hi>1 COR. XV. 29.</hi>
+               </bibl>
+               <q>Else, what shall they do, who are baptized for the dead, if the dead rise not at all? Why are they then baptized for the dead?</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is evident to every one that shall with any Attention read this <hi>Chapter,</hi> That the whole <hi>Design</hi> of it is, to confirm that <hi>great Article</hi> of the Christian Faith, [<hi>The Doctrine of the Resurrection of the Dead,</hi>] by several cogent <hi>Arguments;</hi> and to explain the <hi>manner</hi> of it by several apt <hi>Similitudes.</hi>
+            </p>
+            <p>Now among those <hi>Arguments</hi> here used, my <hi>Text</hi> contains one, of that sort which <hi>Logicians</hi> call [<hi>ad hominem</hi>], <hi>i. e.</hi> such a one as is peculiarly adapted to conclude what is intended, from the Notions, <hi>Conces<g ref="char:EOLhyphen"/>sions,</hi> or other <hi>Circumstances</hi> of the <hi>Person</hi> that we ar<g ref="char:EOLhyphen"/>gue with. For the <hi>Apostle</hi> endeavours to convince those among the <hi>Corinthians,</hi> [who said, <hi>there was no</hi>
+               <note place="margin">Vers. 12.</note>
+               <hi>Resurrection of the Dead</hi>] of the absurdity of that Heretical Doctrine, from a generally-known <hi>Practice</hi> in the <hi>Church;</hi> and that <hi>allowed</hi> at least, if not <hi>approved</hi> and <hi>practised</hi> by themselves also; that of [<hi>Baptizing for the Dead</hi>], which could not rationally be done by them, or any else, with their approbation: except
+<pb n="2" facs="tcp:64010:3"/> upon the supposal of the belief, (or profession, at least, of the belief) of that very <hi>Doctrine</hi> which they op<g ref="char:EOLhyphen"/>pugned, [<hi>That those very dead should rise again</hi>]. For (saith he) <hi>to what purpose is that practice to those that are so baptized, if there be no Resurrection of the dead?</hi> &amp;c.</p>
+            <p>This <hi>Argument</hi> of our Apostle is undoubtedly <hi>strong,</hi> and was unexceptionably <hi>constringent</hi> to <hi>those</hi> he had to deal withal: but cannot to us appear such, except we can clearly make out what that Phrase of [<hi>Baptising for the dead</hi>] in those <hi>Primitive times</hi> does import. Which therefore I shall spend some little time to inform you in, that I may make a clearer way to that, which from thence I have to recommend to you for your <hi>Instructi<g ref="char:EOLhyphen"/>on</hi> and <hi>Practice.</hi>
+            </p>
+            <p>And here, I will not undertake so tiresome a task, both to my own <hi>strength,</hi> and your <hi>patience,</hi> as to re<g ref="char:EOLhyphen"/>count to you particularly all the several <hi>Interpretations</hi> given by <hi>Expositors</hi> of these words: which owe in<g ref="char:EOLhyphen"/>deed the <hi>difficulty</hi> they are noted for, rather to <hi>their contests,</hi> than to their <hi>own obscurity:</hi> whereof, I hope to convince you by and by, when I have given you that which I judge most <hi>rational,</hi> and the <hi>grounds</hi> withal why I judge it so.</p>
+            <p>And in order thereto, I shall make bold to use the <hi>common Rule</hi> for the <hi>Interpreting</hi> of <hi>Holy Scriptures,</hi> which forbids us, to <hi>hunt after figurative or mystical senses in any Text, where without evident inconveniences it may admit of a literal one.</hi> And I am greatly mistaken, if this will not do so in every <hi>word</hi> thereof. And <hi>first,</hi> the word [<hi>Baptized</hi>] though others interpret it <hi>me<g ref="char:EOLhyphen"/>taphorically,</hi> I judge, properly denotes that <hi>Instituted Rite,</hi> by which our Saviour requires all to be <hi>admitted</hi> into the <hi>Christian Church,</hi> Mat. 28. 19.</p>
+            <pb n="3" facs="tcp:64010:3"/>
+            <p>2. By the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or [<hi>the dead</hi>] I know no reason why we should not understand those that were <hi>naturally dead,</hi> for whose <hi>Resurrection</hi> the <hi>Apostle</hi> (as you were before told) does in <hi>this Chapter</hi> so strongly <hi>argue:</hi> but still with a special reference to those of them who <hi>died</hi> as <hi>Martyrs</hi> for the <hi>profession</hi> of <hi>Christianity.</hi>
+            </p>
+            <p>3. And that those who are said to be <hi>baptized</hi> [for] <hi>them,</hi> are here affirmed to be so, as that word [<hi>for</hi>] signifies [<hi>in the stead</hi>] of them; I will here content my self to assert, hoping in what follows, to demon<g ref="char:EOLhyphen"/>strate it.</p>
+            <p>For in <hi>this sense,</hi> the Apostle's <hi>Argumentation</hi> (con<g ref="char:EOLhyphen"/>sidering the constitution of those times, in which the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or Christians already <hi>dead,</hi> were generally brought to their <hi>ends;</hi> and those that were not so, in<g ref="char:EOLhyphen"/>danger'd to be so, by Martyrdom) is very <hi>strong,</hi> and very aptly fitted, to make <hi>this verse</hi> coherent with those that <hi>precede,</hi> and <hi>follow</hi> it.</p>
+            <p>For according thereunto, the <hi>Apostle's Argument</hi> here used, runs evidently to this purpose. The <hi>Christian Faith</hi> is to be propagated in the <hi>Jewish</hi> and <hi>Heathen</hi> world, by the <hi>blood</hi> of dying <hi>Martyrs.</hi> In which ser<g ref="char:EOLhyphen"/>vice, divers are <hi>alread<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dead,</hi> and those that yet <hi>are not so,</hi> do yet <hi>die daily;</hi> that is, <hi>look</hi> upon <hi>themselves</hi> con<g ref="char:EOLhyphen"/>tinually as <hi>like to die,</hi> being in <hi>jeopardy</hi> of life <hi>every hour,</hi> v. 30, 31. yea, <hi>I my self,</hi> have on that account been exposed to <hi>death</hi> by the teeth of savage <hi>beasts at Ephe<g ref="char:EOLhyphen"/>sus,</hi> v. 32. And yet, 'tis notoriously known, that a <hi>suc<g ref="char:EOLhyphen"/>cession</hi> to the <hi>deceased Professors,</hi> of so <hi>hazardous</hi> a <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> is continually <hi>kept up</hi> in the Church, by <hi>admitting</hi> others, in great numbers, to <hi>fill</hi> their <hi>places</hi> so vacated by <hi>Baptism.</hi>
+            </p>
+            <pb n="4" facs="tcp:64010:4"/>
+            <p>But, <hi>if there be no Resurrection of the dead:</hi> (and so no such plenary <hi>reparation,</hi> or <hi>recompence</hi> for the <hi>loss</hi> of so dear an enjoyment as <hi>life</hi> is, when lost in <hi>Christ</hi>'s <hi>ser<g ref="char:EOLhyphen"/>vice,</hi> as the Doctrine of the <hi>Resurrection</hi> imports:) How <hi>vain</hi> an attempt would it be, for us to persuade any intelligent Persons to be <hi>listed</hi> as his <hi>Soldiers</hi> into the vacant places of those that are so cut off? For on that supposition, well may those whom we by our Preaching invite to <hi>Baptism,</hi> ask, (as I do on their be<g ref="char:EOLhyphen"/>half) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>what they shall do:</hi> or rather, <hi>What benefit or advantage</hi> can be propounded to induce them, (for so the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is frequently used in <hi>Classical</hi>
+               <note place="margin">Mat. 25. 16. Luke 19. 19.</note>
+               <hi>Greek Authors,</hi> and in <hi>Scripture</hi> too) to embrace a <hi>Religion,</hi> constantly attended with such <hi>extreme dan<g ref="char:EOLhyphen"/>gers.</hi>
+            </p>
+            <p>And against this sense of the words, I cannot fore<g ref="char:EOLhyphen"/>see any thing material that may be likely to be urged, but only, these <hi>Two Objections;</hi> which therefore I must, before I proceed any farther in my Discourse, encounter, and rid my hands of them.</p>
+            <p>The <hi>First</hi> is, That it seems too <hi>strictly</hi> to confine the <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>I</label> word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> [the <hi>dead</hi>] to the <hi>dead Martyrs.</hi>
+            </p>
+            <p>To which I Answer, that, though I do not exclude<note place="margin">Sol.</note> from the compass of it, <hi>all others deceased in the Christi<g ref="char:EOLhyphen"/>an Faith</hi> altogether; for indeed there is no reason to oblige me so to do, seeing the Apostle's <hi>Argument</hi> is very good in that <hi>general sense;</hi> it being, (upon supposal that there is no such Resurrection of the dead as Christianity professeth,) but vain to persuade any in<g ref="char:EOLhyphen"/>telligent considering Person to embrace a Religion wherein the main inducements thereunto are built upon a <hi>Doctrine</hi> so <hi>false,</hi> as to render them <hi>fallacious:</hi> Yet I apprehend, I have ground enough mainly to <hi>re<g ref="char:EOLhyphen"/>strain</hi>
+               <pb n="5" facs="tcp:64010:4"/> the word to such in <hi>special</hi> as <hi>suffered for Christi<g ref="char:EOLhyphen"/>anity.</hi> For (besides the countenance, which I before told you, the <hi>two following verses</hi> give to my notion:) it appears to me; that the Apostle in <hi>this Verse,</hi> does resume and tye again the <hi>thread</hi> of that <hi>Discourse</hi> which he <hi>breaks</hi> off (from <hi>v.</hi> 20. downward to my Text,) by a <hi>Digression,</hi> intended to give an account of the <hi>Reason</hi> both of the <hi>thing,</hi> and the <hi>circumstances</hi> of our <hi>Resurrection,</hi> as <hi>derived</hi> from <hi>Christ</hi>'s; and when that is done, therein farther pursues the consideration of the <hi>absurdity</hi> of that <hi>Heretical Doctrine,</hi> which (as in <hi>v.</hi> 18, and 19. he says) if it be admitted, must not on<g ref="char:EOLhyphen"/>ly infer the <hi>utter perishing</hi> of all that are <hi>fallen asleep in Christ already,</hi> (which in the judgment of many learn<g ref="char:EOLhyphen"/>ed Criticks, is but a <hi>Periphrasis</hi> of <hi>Martyrdom</hi> for Christ): but also casts the imputation of <hi>folly,</hi> or <hi>mad<g ref="char:EOLhyphen"/>ness</hi> rather, on all those that would <hi>adventure</hi> all the <hi>dearest concerns</hi> of this life, to an <hi>hazard</hi> beyond that of all <hi>other men,</hi> by the entertainment of a Religion, which made them <hi>of all men most miserable</hi> here, without any hopes of <hi>reparation</hi> in <hi>another world.</hi> To which, the <hi>words</hi> of my <hi>Text,</hi> and the Two <hi>following verses,</hi> are so very apt to be <hi>knit,</hi> that I can no way doubt, the Apostle intended the <hi>connection</hi> of them to those from which he had, (upon the design before men<g ref="char:EOLhyphen"/>tioned) so digressed.</p>
+            <p>The <hi>Second</hi> is, That I seem to put upon the <hi>Prepo<g ref="char:EOLhyphen"/>sition</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>2</label>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which we render [<hi>for</hi>] a <hi>sense</hi> wherein it is very <hi>rarely</hi> used: by making it equivalent to our <hi>English</hi> Phrase of, [<hi>in the stead, or room</hi>] of ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>Against which <hi>Objection,</hi> I have this to say in<note place="margin">Sol.</note> my own defence: That though such a <hi>sense</hi> of that
+<pb n="6" facs="tcp:64010:5"/>
+               <hi>word</hi> be not so <hi>common</hi> as others: yet there is no<g ref="char:EOLhyphen"/>thing more common to be found in those Authors who write concerning the <hi>proprieties</hi> of the <hi>Greek Tongue,</hi> than the observation, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is therein frequently used for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; and that, I am sure, does not only serve to express the <hi>acting for,</hi> or in the <hi>room</hi> of <hi>another,</hi> but also <hi>succeeding</hi> in his <hi>sta<g ref="char:EOLhyphen"/>tion,</hi> when <hi>removed:</hi> as it does frequently in the LXXII <hi>Interpreters,</hi> where succeeding <hi>Kings</hi> are said to <hi>Reign in the stead</hi> of their <hi>dead Prede<g ref="char:EOLhyphen"/>cessors.</hi>
+            </p>
+            <p>And this word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I crave leave to take, (till any one better informs me) to correspond fully with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in both senses: both as it serves to express any one <hi>deputation</hi> for, or <hi>representati<g ref="char:EOLhyphen"/>on</hi> of another, whilst both are in being: but also as it denotes <hi>succession</hi> of the <hi>living</hi> to the <hi>dead;</hi> which brings it down to the use the <hi>Apo<g ref="char:EOLhyphen"/>stle</hi> (by my Interpretation) makes of it in my <hi>Text.</hi>
+            </p>
+            <p>In the <hi>former</hi> of these <hi>senses,</hi> I am not apprehen<g ref="char:EOLhyphen"/>sive of any great opposition I am endangered to meet with, from those that are versed in the <hi>Greek Language:</hi> Or, if any be doubtful hereof, I only refer him to a Text or two for satisfaction. 2 <hi>Cor.</hi> 5, 20, 21.<note place="margin">Se also <hi>Judith</hi> 8. 12.</note>
+            </p>
+            <p>But in the <hi>later,</hi> I should indeed, lie more open, but that, (besides the <hi>Conformity</hi> which this <hi>word</hi> bears with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in other respects, which ren<g ref="char:EOLhyphen"/>ders it not unlikely it may do so in this), I find in a <hi>Greek Historian,</hi> both Ancient, and of good Repute, this very <hi>word</hi> used in a sense of <hi>Succes<g ref="char:EOLhyphen"/>sion:</hi> To wit, for the <hi>recruiting</hi> of an <hi>Army,</hi> by
+<pb n="7" facs="tcp:64010:5"/>
+               <hi>Listing</hi> New Soldiers <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>in the room or stead of those</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Dionys. Ha<g ref="char:EOLhyphen"/>licarn. Edit. Rob. Steph. Lut. p. 408. c. 8.</note>
+               <hi>that were slain;</hi> the very <hi>Parallell</hi> to this <hi>Phrase</hi> in the <hi>Text,</hi> of being <hi>Baptized,</hi> that is, <hi>Listed</hi> into <hi>Christ's Service,</hi> in <hi>the place of those that died</hi> for <hi>his Religion</hi> in the <hi>Holy Army of Martyrs.</hi>
+            </p>
+            <p>And thus, I hope, that (without <hi>straining,</hi> or <hi>for<g ref="char:EOLhyphen"/>cing</hi> of <hi>words,</hi> to <hi>Figurative</hi> or <hi>Mystical</hi> Senses), I have in most of your Judgments, fixed the <hi>plain</hi> and <hi>literal sense</hi> of this <hi>Controverted Text,</hi> beyond Con<g ref="char:EOLhyphen"/>tradiction: and therefore may take my self to be at liberty, to raise Observations from it. Which, shall be only these <hi>Three</hi> that follow.</p>
+            <p>I. <hi>That the Church of Christ, (being an holy Society, ordained to consist of Members, existing in several successive Ages); ought to be maintained by the constant care of every preceding Age, to preserve the succession in those that follow them.</hi>
+            </p>
+            <p>II. <hi>That whoever are to that end successively baptized into the Christian Religion, ought to be well grounded in the belief of the special benefits and advantages that are to be obtain'd thereby; and the way how they are to obtain them</hi>
+            </p>
+            <p>III. <hi>That the rational assurance which succeeding Christians have of their Predecessors interest in a future Resurrection, to a blessed Immortality, conduceth much to the Confirmation of them, in the belief amd practice of Christianity, even under the severest Circumstances.</hi>
+            </p>
+            <p>Of all these, I intend to discourse at this time, briefly, and plainly. And begin with the <hi>first.</hi>
+            </p>
+            <p>
+               <hi>That the Church of Christ, is to be maintained as a suc<g ref="char:EOLhyphen"/>cessive</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Prop. </seg>I</label>
+               <hi>Body or Society, by the care of each preceding Age, to admit new Members, into the places of those that die,</hi>
+            </p>
+            <pb n="8" facs="tcp:64010:6"/>
+            <p>For this, the <hi>Apostle</hi> here intimates, was the <hi>Com<g ref="char:EOLhyphen"/>mon Practise</hi> of the <hi>Church</hi> to <hi>Baptize</hi> others, to stand up in the <hi>room of the Dead:</hi> that the <hi>Commonwealth</hi> of <hi>Israel</hi> might not be (as the <hi>Historian</hi> tells us, that<note place="margin">Flor. c. 1.</note> of <hi>Rome,</hi> in its Plantation by <hi>Romulus,</hi> was like to have been,) <hi>Res unius aetatis,</hi> a <hi>short-lived Corpora<g ref="char:EOLhyphen"/>tion,</hi> not to endure beyond <hi>the Age of man;</hi> but <hi>to expire</hi> with its <hi>present Members.</hi>
+            </p>
+            <p>And herein they do (as they ought,) <hi>comply</hi> with, and render <hi>effectual,</hi> as much as in them lies, the <hi>intention</hi> and <hi>design</hi> of the first <hi>Founder</hi> thereof, our <hi>Lord</hi> and <hi>Saviour Jesus Christ;</hi> who therefore <hi>Commis<g ref="char:EOLhyphen"/>sioned</hi> his <hi>Apostles</hi> to <hi>Disciple all Nations, Baptizing them</hi> into the Profession of <hi>his Religion;</hi> with the <hi>pro<g ref="char:EOLhyphen"/>mise</hi> of his <hi>Presence,</hi> to assist them in this work, <hi>to the end of the world,</hi> Mat. 28. 20. and took care, at his <hi>Ascention</hi> into Heaven, That after their <hi>Death,</hi> that work might be carried on by others: appointing a per<g ref="char:EOLhyphen"/>petual <hi>Succession,</hi> by <hi>Ordination,</hi> of such <hi>Pastors,</hi> as<note place="margin">2 Tim. 2. 2:</note> might perpetuate his Religion to all <hi>Posterity;</hi> till his <hi>Body</hi> mystical in all its Members should be <hi>per<g ref="char:EOLhyphen"/>fected.</hi>
+               <note place="margin">Eph. 4. 11, 12, 13.</note>
+            </p>
+            <p>And by the same provident care for <hi>Succession,</hi> all good Christians effectually also fulfil the <hi>Promises</hi> of God to his <hi>Son, that his name shall be remembred to all generations: That he shall be feared,</hi> that is, Religi<g ref="char:EOLhyphen"/>ously<note place="margin">Ps. 45. 17. 72. 5.</note>
+               <hi>Worshiped, (as long as the sun and moon con<g ref="char:EOLhyphen"/>tinue;</hi> and <hi>that of the encrease of his government, there</hi>
+               <note place="margin">Is. 9. 7.</note>
+               <hi>shall be no end.</hi> For, as he hath himself (in order to the carrying on of these <hi>Promises,</hi> to their designed issues, ever since he had a <hi>Church</hi> in the World) taken care, to engage the <hi>Seed</hi> of the <hi>Faithful</hi> in a <hi>Cove<g ref="char:EOLhyphen"/>nant</hi> with himself, and obliged himself to be a <hi>God
+<pb n="9" facs="tcp:64010:6"/> to them</hi> in all their successive <hi>Generations:</hi> So hath he enjoyned this Task to <hi>Jewish Parents, in conformity to</hi> their Father <hi>Abraham,</hi> whom he commends for so doing, <hi>Gen. 8. 19. To make his Laws known to their Children, that the Generations to come might know them, even the children that should be born; who should arise also, and declare them to their children.</hi> Psal. 78. 5, 6. and has as strictly also required <hi>Chri<g ref="char:EOLhyphen"/>stian Parents</hi> successively to <hi>bring up their Children in the nurture and admonition of the Lord,</hi> (Eph. 6. 4.) <hi>i. e.</hi> the <hi>Christian Religion,</hi> revealed by the <hi>Lord Christ.</hi> And indeed, there seems nothing more <hi>natural<g ref="char:EOLhyphen"/>ly planted</hi> in the hearts of <hi>all Mankind,</hi> than a solicitous tender care for <hi>Posterity:</hi> which induceth them to en<g ref="char:EOLhyphen"/>deavour to derive to them all the <hi>good things</hi> that are in their <hi>Possession</hi> or <hi>Power;</hi> whereto also they have farther inducement, that hereby they likewise pro<g ref="char:EOLhyphen"/>vide for themselves a kind of <hi>Immortality,</hi> in the <hi>grate<g ref="char:EOLhyphen"/>ful remembrance,</hi> which by that means, they obtain from their <hi>Descendants;</hi> when they look upon such <hi>Estates, Benefits, and Privileges,</hi> as procured for, or <hi>left</hi> to them by their <hi>Ancestors.</hi>
+            </p>
+            <p>And because <hi>Religion</hi> is that, which (in the com<g ref="char:EOLhyphen"/>mon Judgment also of Mankind, as being the only means of setling a <hi>Friendship</hi> and <hi>Correspondence</hi> be<g ref="char:EOLhyphen"/>twixt <hi>Heaven</hi> and <hi>Earth; God,</hi> the Fountain of all good, and <hi>Man</hi>) carries in it eminently all that may make men every way <hi>Happy:</hi> It is no wonder, if all Persons, (according to the <hi>persuasions</hi> they have of the <hi>Truth</hi> of their <hi>own Religions</hi>) are desirous, by all means possible, to <hi>perpetuate</hi> them by an <hi>entail,</hi> never to be cut off, to all their <hi>successive Poste<g ref="char:EOLhyphen"/>rity.</hi>
+            </p>
+            <pb n="10" facs="tcp:64010:7"/>
+            <p>So that certainly, <hi>Christianity</hi> (the best Religi<g ref="char:EOLhyphen"/>on,) must needs be granted to be the most unworthi<g ref="char:EOLhyphen"/>ly, and indeed, most <hi>inhumanely treated,</hi> of <hi>any</hi> in the <hi>World;</hi> if in any Age, it should chance to fall in<g ref="char:EOLhyphen"/>to the hands of such Professors, as (through <hi>Igno<g ref="char:EOLhyphen"/>rance, Inconsideration,</hi> or any other <hi>worse cause</hi>), should think it a <hi>Legacy</hi> not worth the <hi>bequeathing</hi> to those that come <hi>after</hi> them: And if, whiles <hi>every People</hi> else, <hi>walks in the Name of his God, (i. e.</hi> keeps constant to his Religion), those only that are cal<g ref="char:EOLhyphen"/>led<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> by the <hi>worthy Name</hi> of <hi>Christians,</hi> should refuse to do the same for <hi>their God, for ever and ever;</hi> that is, (as the Learned <hi>Grotius</hi> interprets the <hi>Text,) ipsi,</hi>
+               <note place="margin">Jam. 2. 7.</note>
+               <hi>&amp; posteri, they,</hi> and their <hi>Issue,</hi> to all <hi>Genera<g ref="char:EOLhyphen"/>tions.</hi>
+               <note place="margin">Mic. 4. 5.</note>
+            </p>
+            <p>And now, (to bring home all that has been said on <hi>this Head,</hi> to our present <hi>Circumstances,</hi>) let us of the <hi>present Age,</hi> (as we have <hi>any</hi> of us, and I hope there is none here, but has a <hi>value</hi> proportionable for the ex<g ref="char:EOLhyphen"/>cellent <hi>Religion</hi> we <hi>profess,</hi>) look with that serious <hi>Concernedness</hi> which becomes us, according to the import of <hi>this Doctrine; upon</hi> its <hi>state</hi> and <hi>condition</hi> in this Nation, (as <hi>Janus</hi> was fancied to do among the Ancient <hi>Romans,) backward,</hi> and <hi>forward;</hi> and im<g ref="char:EOLhyphen"/>prove that view accordingly.</p>
+            <p>1. <hi>Backward;</hi> so it offers us <hi>occasion</hi> to remember the <hi>Dead,</hi> in whose <hi>stead</hi> we are <hi>Risen up</hi> to fill <hi>their places,</hi> in the <hi>Profession</hi> of the <hi>Reformed Christianity</hi> which they <hi>left us.</hi> From whence 'tis a <hi>Consideration</hi> naturally consequent; How much cause we have to <hi>thank God,</hi> and his <hi>Gracious Providence,</hi> who put it in<g ref="char:EOLhyphen"/>to our Ancestors hearts to take care to <hi>derive</hi> to us so <hi>pure</hi> and <hi>holy</hi> a <hi>Religion,</hi> and so well setled, both
+<pb n="11" facs="tcp:64010:7"/> by <hi>Ecclesiastical</hi> and <hi>Civil Sanctions,</hi> both in <hi>Doctrine, Worship,</hi> and <hi>Discipline,</hi> as may justly render us the envy of all <hi>Christendom</hi> besides. Also, that he hath so <hi>ordered</hi> the <hi>times</hi> and <hi>places of our Habitation,</hi> as to <hi>intitle</hi> us by <hi>Descent</hi> from them to all these <hi>great Mer<g ref="char:EOLhyphen"/>cies:</hi> For we are by our <hi>Birth</hi> and <hi>Baptism,</hi> in this <hi>Church, entred into their labours:</hi> and what cost them so many <hi>Prayers, Tears,</hi> and <hi>bloody Persecutions</hi> to <hi>purchase;</hi> we at an <hi>easier rate</hi> have hitherto <hi>enjoyed.</hi> And very <hi>ungrateful</hi> are we to God and them, if we do not high<g ref="char:EOLhyphen"/>ly value both them and it; and <hi>keep that good thing which is committed to us</hi> by them: If we, in <hi>our Gene<g ref="char:EOLhyphen"/>ration,</hi> shall <hi>corrupt</hi> that <hi>Religion,</hi> or <hi>weaken</hi> those wholesome <hi>Constitutions</hi> and <hi>Laws,</hi> by which it is <hi>set<g ref="char:EOLhyphen"/>tled</hi> among us: which too many of late have been too <hi>forward</hi> to do.</p>
+            <p>2. <hi>Forward:</hi> and that both towards the <hi>remaining time, till this Generation shall be gathered to their Fathers;</hi> and that, of our <hi>immediate Successors.</hi> And first as for</p>
+            <p>1. The <hi>remaining duration</hi> of our <hi>present Age,</hi> our Duty is, to <hi>hold fast that which we have,</hi> in this <hi>Hour of Tentation, which is come upon all</hi> the Christian <hi>World,</hi> to <hi>try</hi> us: <hi>Keeping the word of God's patience,</hi> and <hi>conti<g ref="char:EOLhyphen"/>nuing in the Faith,</hi> and <hi>enduring to the end;</hi> after we<note place="margin">Act. 13. 36.</note> have (with <hi>holy David,) served in our own Age the will of God,</hi> we may, when we <hi>fall asleep</hi> both be <hi>sacred</hi> in our <hi>Persons;</hi> and also leave behind us a <hi>precious Name,</hi> and <hi>memorial</hi> unto all <hi>succeeding Generati<g ref="char:EOLhyphen"/>ons.</hi>
+            </p>
+            <p>2. And as to the <hi>Generation</hi> that is <hi>to come after us,</hi> it is true, that we have (in comfortable <hi>Prospect</hi>) the <hi>Gene<g ref="char:EOLhyphen"/>rality</hi> of these Three <hi>Nations baptized</hi> into the <hi>room</hi> of
+<pb n="12" facs="tcp:64010:8"/> the <hi>Dead;</hi> so that our <hi>places</hi> are like enough to be fil<g ref="char:EOLhyphen"/>led, with <hi>Nominal Christians</hi> in abundance, when we are laid in our <hi>Graves.</hi> But to consider, under what <hi>hazards</hi> we are like to <hi>leave</hi> them as things now stand, hath somewhat of a <hi>prospect melancholy</hi> enough; and which may <hi>deserve,</hi> and <hi>excite</hi> our utmost <hi>care,</hi> to pre<g ref="char:EOLhyphen"/>vent, and secure them against <hi>those evils</hi> which too visibly threaten them.</p>
+            <p>One of which is from the <hi>busy</hi> and <hi>restless activity</hi> of <hi>Jesuitical Incendiaries;</hi> and their too much influence (though at present much curbed) upon all the <hi>Ro<g ref="char:EOLhyphen"/>mish Courts</hi> in <hi>Europe;</hi> in pursuance of their declared <hi>Design</hi> of <hi>rooting out</hi> by Force and Arms, that which they call <hi>the Northern Heresy,</hi> (that is, indeed, our <hi>reformed Christianity,</hi>) out of the <hi>Earth,</hi> that the <hi>Name of Protestant</hi> may <hi>no more be had in remembrance:</hi> and we know, by sad experience, how near they lately were amongst us, to the accomplishing their <hi>cruel</hi> and <hi>bloody Intentions,</hi> after the <hi>patern</hi> of our <hi>Neighbour King<g ref="char:EOLhyphen"/>dom;</hi> where I need not tell you what <hi>proof</hi> they have made thereof.</p>
+            <p>It is true indeed, that <hi>God hath, for a little space shewed us the favour, to leave us a nail,</hi> (as <hi>Ezra.</hi> 9. 8.<note place="margin">Ezra 9. 8.</note> says of <hi>Israel</hi> in his days) in his <hi>holy place: a little lightning of our eyes, and a little reviving to set up the house of our God, and repair the ruins thereof,</hi> (occasi<g ref="char:EOLhyphen"/>oned by our long continued <hi>divisions</hi> and <hi>dissentions,</hi>) under the <hi>Protection</hi> and <hi>Government</hi> of Their <hi>present Majesties:</hi> a Mercy, which one would think, none that has any true sense of <hi>Religion,</hi> should <hi>undervalue;</hi> seeing it is, under God, the greatest <hi>security</hi> we can likely have; for the <hi>perpetuity</hi> of the <hi>Gospel</hi> in its <hi>puri<g ref="char:EOLhyphen"/>ty</hi> and <hi>power,</hi> in these <hi>Nations.</hi>
+            </p>
+            <pb n="13" facs="tcp:64010:8"/>
+            <p>But yet, I must needs say, I cannot apprehend the <hi>danger totally over,</hi> when I consider farther the great <hi>Numbers</hi> among our selves that are (some through <hi>dissatisfaction</hi> at the <hi>late Revolutions; others,</hi> through a longing appetite after the <hi>Garlick</hi> and <hi>Onyons</hi> of <hi>Egypt;</hi> and <hi>others,</hi> out of a little present <hi>uneasiness</hi> under the <hi>charges</hi> our <hi>circumstances necessitate</hi> us to;) so far ex<g ref="char:EOLhyphen"/>asperated; that they are even willing to <hi>join again</hi> with the <hi>men of their late abomination,</hi> in a <hi>confederacy;</hi> to enable them by <hi>fine force</hi> to effect that which they could not do by all their <hi>fine,</hi> or rather <hi>foul,</hi> De<g ref="char:EOLhyphen"/>vices.</p>
+            <p>And yet, one would think, that the <hi>least</hi> that could with reason be expected, from all <hi>conscientious</hi> and <hi>con<g ref="char:EOLhyphen"/>sidering</hi> men, however they stand affected to the <hi>pre<g ref="char:EOLhyphen"/>sent Government,</hi> and though their <hi>principles</hi> will not permit them to assist the <hi>Instruments</hi> which God's Pro<g ref="char:EOLhyphen"/>vidence hath raised for (our <hi>preservation;</hi>) should be, that they would but be contented to set <hi>themselves</hi> in a quiet Posture, <hi>to stand still, and see the salvation,</hi> which the <hi>Lord is working for us:</hi> and seeing in the <hi>present Juncture,</hi> he has <hi>no need</hi> of them to <hi>fight on his side,</hi> they should take heed of <hi>fighting</hi> for his <hi>Enemies,</hi> es<g ref="char:EOLhyphen"/>pecially when the consequence thereof in all probabi<g ref="char:EOLhyphen"/>lity can be no other, than the bringing their <hi>own Necks,</hi> and those of <hi>their Posterity</hi> also, as well as <hi>ours,</hi> once more under that <hi>Romish Yoak; which neither our Fathers nor we were able formerly to bear.</hi> A <hi>desperate Adventure</hi> to be run by men that pretend to conscience, at any time: but most desperate, surely, at this time; which is, (in all humane probability,) the very <hi>critical</hi> mo<g ref="char:EOLhyphen"/>ment, that must decisively <hi>determine</hi> either the <hi>death,</hi> or the <hi>recovery</hi> of the whole <hi>Protestant Interest</hi> in <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi>
+               <pb n="14" facs="tcp:64010:9"/> and that, <hi>for ever.</hi> So that if we, (like <hi>Jerusa<g ref="char:EOLhyphen"/>lem,) in this our day, see not the things that belong to our peace,</hi> we may justly fear, they will be, for the <hi>future, hid from our eyes;</hi> because we <hi>knew not the time</hi> of our <hi>mer<g ref="char:EOLhyphen"/>ciful</hi>
+               <note place="margin">Luk. 19. 41, 42, 43.</note>
+               <hi>visitation.</hi> For who, when that lofty <hi>Nebuchad<g ref="char:EOLhyphen"/>nezar, whose hand</hi> is now (like that of <hi>Ishmael</hi>)<note place="margin">Gen. 16. 12.</note>
+               <hi>against every man, and every mans against him;</hi> shall have accomplished his design; <hi>removed all the bounds</hi> of this <hi>Western World</hi> to enlarge his own; <hi>Robbed all their Treasures; found as a Nest</hi>
+               <note place="margin">Is. 10. 13, 14.</note>
+               <hi>forsaken, the riches of all people, and gathered them as one gathereth Eggs that are left:</hi> who will there, (yea, who indeed can) there be, so much as to <hi>move the wing, or open the mouth, or so much as peep</hi> towards the least <hi>attempt</hi> to <hi>rescue</hi> us?</p>
+            <p>Nor is the <hi>prospect</hi> of our <hi>Posterity,</hi> much more <hi>comfortable;</hi> when we consider the unaptness of the <hi>younger sort</hi> (the <hi>spes gregis</hi>) to <hi>stand in the gap</hi> against the attempts of such <hi>subtil Adversaries,</hi> upon their <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> by <hi>Argument:</hi> Seeing the generality of them are so grosly <hi>ignorant</hi> as they are in the <hi>Grounds</hi> of the <hi>Protestant Faith,</hi> and yet withal, so fondly <hi>conceited</hi> of their knowledge as to scorn <hi>Catechising</hi> in them, that they might <hi>understand</hi> them. So, that 'tis to be doubted, they would, even in whole <hi>shoals,</hi> be <hi>caught</hi> in their <hi>nets,</hi> if ever that <hi>Generation</hi> should obtain the liberty, without the controll of our <hi>Penal Laws,</hi> (and that they will surely, if they ever come in with that that silenceth all Laws, the <hi>Sword</hi> in their <hi>hands</hi>) to <hi>set</hi> them for us.</p>
+            <p>Considering also, what a loose hold we have, of the <hi>most</hi> of them, who (<hi>partly,</hi> through <hi>scruple, part<g ref="char:EOLhyphen"/>ly,</hi> through <hi>faction,</hi> but <hi>chiefly,</hi> through <hi>Atheistecal
+<pb n="15" facs="tcp:64010:9"/> Principles,</hi> and monstrous <hi>profaneness,</hi>) refuse to <hi>em<g ref="char:EOLhyphen"/>body</hi> themselves with us, in the participation of the <hi>Holy Communion</hi> of the <hi>Lord</hi>'s <hi>Supper</hi> (that Ordinance in which all <hi>Christians</hi> antiently were contesserated, and made (as the <hi>Apostle</hi> saith) <hi>one leaf, and one body:</hi>)<note place="margin">1 Cor. 10. 17:</note> So that they are (like <hi>scattered Soldiers</hi> separate from their <hi>Troops</hi>) easily to be <hi>picked up,</hi> by <hi>every Party</hi> that pursues them.</p>
+            <p>And, reflecting (lastly,) upon the just <hi>cause</hi> of <hi>displeasure</hi> given to Almighty God, by such neglect, if not <hi>contempt</hi> of his <hi>sacred Institutions;</hi> which may justly provoke him (as he threatens <hi>Jerusalem</hi> in a like case) to <hi>take away his Kingdom from</hi> those who so little value it; and <hi>give it to a nation that will bring forth</hi> bet<g ref="char:EOLhyphen"/>ter<note place="margin">Mat. 21. 43.</note>
+               <hi>fruits thereof,</hi> than we hitherto have done.</p>
+            <p>I expect now, that all that hear me this day, should (as the People to whom our <hi>Saviour</hi> de<g ref="char:EOLhyphen"/>nounced that sad Judgment,) (in their hearts at least,)<note place="margin">Luke. 20. 16.</note> say, <hi>God forbid;</hi> and hope, (yea, wish,) that here<g ref="char:EOLhyphen"/>in, I prove a <hi>false Prophet.</hi> And I assure you, I am as ready to join in that <hi>wish,</hi> my self, as any one pre<g ref="char:EOLhyphen"/>sent: Though withal, I must profess, my <hi>hopes</hi> can<g ref="char:EOLhyphen"/>not be so <hi>sanguine,</hi> as some mens, herein are, except I could see those <hi>effectual courses</hi> taken among our selves, to <hi>prevent</hi> that <hi>danger,</hi> which mere <hi>hopes</hi> and <hi>good wishes</hi> are too weak to <hi>encounter.</hi>
+            </p>
+            <p>Which, what they <hi>are,</hi> will fall under the <hi>next Proposition:</hi> Which was this▪</p>
+            <p>II. <hi>That whoever are Baptized to maintain the successi<g ref="char:EOLhyphen"/>on</hi>
+               <note place="margin">
+                  <hi>Prop.</hi> II.</note>
+               <hi>of the Christian Church, ought to be well grounded in the belief of the special benefits and advantages that Christianity contains in it; and well instructed in the way to attain them.</hi>
+            </p>
+            <pb n="16" facs="tcp:64010:10"/>
+            <p>For (in which <hi>sense</hi> soever of the <hi>two</hi> before sug<g ref="char:EOLhyphen"/>gested, of the words [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] we understand them,) it is apparently implied, that the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, those that are <hi>Baptized for,</hi> or <hi>instead of the dead,</hi> might, and ought to <hi>enquire, what they are to do,</hi> to make that <hi>advantage</hi> by the Christian Faith they are <hi>Baptized into;</hi> which may ballance the <hi>hazards</hi> they run, by undertaking so <hi>perillous</hi> a <hi>Profession:</hi> And 'tis as evident, that the <hi>Apostle</hi> takes a <hi>great part</hi> of the pains he bestows upon the <hi>opening</hi> and <hi>confirming</hi> the <hi>Doctrine</hi> of the <hi>Resurrection,</hi> for their <hi>Instruction</hi> therein.</p>
+            <p>And 'tis known, that the <hi>Questions</hi> anciently pro<g ref="char:EOLhyphen"/>pounded to those that were to be <hi>Baptized,</hi> related to the <hi>fundamental Articles</hi> of the <hi>Christian Faith,</hi> and they were, (by all <hi>Baptized</hi> at years of discretion,) to be professedly <hi>owned:</hi> Of which the <hi>Resurrection of the body,</hi> and <hi>life everlasting</hi> were <hi>two,</hi> which contain<g ref="char:EOLhyphen"/>ed in few words, the main <hi>hope of the Christian calling,</hi>
+               <note place="margin">Ephes. 1. 18.</note>
+               <hi>and the riches</hi> of the <hi>glory of the inheritance of Christ in the Saints.</hi>
+            </p>
+            <p>And the <hi>same Questions,</hi> we have reason to <hi>believe,</hi> were asked of the <hi>sponsors</hi> for those that were <hi>Baptized in infancy,</hi> whenever that <hi>practice began,</hi> (which, seeing none can assign any <hi>particular Age</hi> wherein it first <hi>entred</hi> into the Church, we have reason to be<g ref="char:EOLhyphen"/>lieve, is, as <hi>Ancient</hi> as that of the <hi>Apostles themselves,</hi> seeing we find upon undoubted record, that they <hi>Bap<g ref="char:EOLhyphen"/>tized whole housholds</hi> together; in all which 'tis unlike<g ref="char:EOLhyphen"/>ly, there were <hi>no Infants:</hi>) And the <hi>Parents,</hi> and other <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or Teachers, (as they grew toward years of capacity,) <hi>instructed</hi> them in the <hi>Princi<g ref="char:EOLhyphen"/>ples</hi>
+               <note place="margin">Luke 1. 1.</note> of the <hi>Doctrine</hi> of <hi>Christ,</hi> of which the <hi>Apostles</hi> catalogue tells us, that of the <hi>Resurrection</hi> was <hi>one.</hi>
+               <note place="margin">Heb. 6. 1.</note>
+               <pb n="17" facs="tcp:64010:10"/> They thus <hi>brought them up in the nurture</hi> and <hi>admonition of the Lord;</hi> acquainted them with the <hi>Baptismal Co<g ref="char:EOLhyphen"/>venant,</hi>
+               <note place="margin">Ephes. 6. 4.</note> the <hi>precious promises</hi> sealed to them therein to<g ref="char:EOLhyphen"/>gether with the <hi>Duty,</hi> which was incumbent upon them, to entitle them to the <hi>great benefits</hi> which <hi>Bap<g ref="char:EOLhyphen"/>tism so sealed</hi> to those in <hi>Infancy,</hi> that rendred them<g ref="char:EOLhyphen"/>selves capable of them at <hi>riper Age.</hi>
+            </p>
+            <p>We therefore do very well, that we generally take care to tender our <hi>Children</hi> to <hi>Baptism</hi> in their <hi>In<g ref="char:EOLhyphen"/>fancy;</hi> for by this <hi>initiating Rite</hi> of <hi>Christ</hi>'s own <hi>ap<g ref="char:EOLhyphen"/>pointment,</hi> we <hi>list</hi> them in his <hi>Family,</hi> we put on them his <hi>Livery,</hi> and <hi>dedicate</hi> them to his <hi>service.</hi> And herein, we take the course, which God himself took to perpetuate the <hi>Jewish Religion,</hi> in that <hi>chosen Nation,</hi> making their <hi>children,</hi> his <hi>children,</hi> and marking them (in their tend'rest Age,) as those that (in his own language, <hi>Ezek.</hi> 16. 20.) were <hi>born to him;</hi> as such, by <hi>Circumcision.</hi>
+            </p>
+            <p>And 'tis of great use, certainly, thus to <hi>anticipate</hi> our childrens <hi>election</hi> of their own <hi>Religion,</hi> whilst they are in our <hi>power</hi> to dispose of; as knowing how great an <hi>Argument</hi> it usually is, to sway our <hi>own choice,</hi> in the <hi>disposal</hi> of our selves, in any sort, when we ar<g ref="char:EOLhyphen"/>rive <hi>at years</hi> of <hi>election,</hi> that our <hi>Parents</hi> have <hi>pre<g ref="char:EOLhyphen"/>destined</hi> us to some <hi>one</hi> way of <hi>living, calling,</hi> or <hi>Pro<g ref="char:EOLhyphen"/>fession,</hi> rather than any <hi>other,</hi> which is then offered to our <hi>Election.</hi>
+            </p>
+            <p>But then, it is as necessary, withal, that we <hi>train them up in the way wherein they ought to go;</hi> shew them <hi>what,</hi> and on what <hi>grounds,</hi> they are to <hi>believe,</hi> and<note place="margin">Prov. 22. 6.</note>
+               <hi>do,</hi> who are <hi>Baptized into Christ;</hi> even to <hi>observe all things whatsoever he hath commanded;</hi> and lay our in<g ref="char:EOLhyphen"/>junctions<note place="margin">Mat. 28. 20.</note> upon them, as <hi>faithful Abraham,</hi> did on his
+<pb n="18" facs="tcp:64010:11"/> Children, to <hi>keep the way of the Lord:</hi> And then we<note place="margin">Gen. 18. 19.</note> may hope, that after we are <hi>dead,</hi> they will keep <hi>alive</hi> themselves, whilst they live, and when they also come to die, deliver the <hi>Lamp</hi> wich they have received at <hi>our hands,</hi> alive, yea, bright, and clear, to their <hi>suc<g ref="char:EOLhyphen"/>cessive Posterity,</hi> through all <hi>Generations.</hi>
+            </p>
+            <p>But then, we must take heed, that we <hi>deliver</hi> it to them no otherwise than as we have <hi>received it from the Lord,</hi> and the <hi>generality</hi> of those, that before us, have <hi>died in him.</hi> For the <hi>Faith,</hi> we are all <hi>Baptized</hi> into, ought to be understood only of <hi>that,</hi> which <hi>all Christians</hi> have <hi>owned</hi> before us. For we are not <hi>Bapti<g ref="char:EOLhyphen"/>zed into the name</hi> of <hi>Paul,</hi> or <hi>Apollos,</hi> or <hi>Cephas,</hi> much less that of his pretended <hi>successor,</hi> but only into the <hi>name of Christ;</hi> into the <hi>profession</hi> of that <hi>Religion</hi> which is <hi>truly Catholick,</hi> and has been the <hi>Religion</hi> of that <hi>Church,</hi> which is in our <hi>Creed</hi> known by that <hi>name.</hi> A truth, which even the <hi>Romanists</hi> seem ta<g ref="char:EOLhyphen"/>citly to acknowledg, by one <hi>remarkable practice</hi> of theirs: to wit, that though P. <hi>Pius.</hi> 4th. and his <hi>Council</hi> of <hi>Trent,</hi> have made a <hi>new Creed</hi> for the <hi>Adult;</hi> containing all the <hi>points</hi> wherein they <hi>differ</hi> from us, and requiring them to be <hi>believed,</hi> as <hi>necessary</hi> to <hi>Salva<g ref="char:EOLhyphen"/>tion:</hi> Yet, they never dared to impose that novel <hi>Faith</hi> upon those <hi>Persons</hi> which they themselves <hi>Baptize,</hi> as a <hi>condition</hi> of <hi>Baptism:</hi> but still content themselves with that which bears the <hi>Name</hi> of the <hi>Apostles,</hi>
+               <note place="margin">Vid. Rituale Romanum Pauli V:</note> and contains the <hi>abstract</hi> of all <hi>Primitive Christia<g ref="char:EOLhyphen"/>nity.</hi>
+            </p>
+            <p>And this <hi>practise,</hi> (by the way) is an apparent <hi>Confession,</hi> that (whatever they <hi>talk,</hi>) they do not indeed <hi>believe</hi> themselves, that those <hi>supernumerary Ar<g ref="char:EOLhyphen"/>ticles</hi> are really <hi>de fide,</hi> and of <hi>necessity</hi> to <hi>Salvation.</hi>
+               <pb n="19" facs="tcp:64010:11"/> Seeing their own publick form of Baptism admits such Proselytes into the <hi>Church,</hi> by <hi>Baptism,</hi> without them: It seems plain therefore, that (by consequence) they cannot, (without a gross <hi>inconsistency</hi> with <hi>them<g ref="char:EOLhyphen"/>selves,</hi>) exclude us from the <hi>Catholick Church,</hi> for not <hi>believing</hi> the Articles themselves dispense with, in those which they make <hi>Members</hi> of it.</p>
+            <p>But, (to return from this short digression to our <hi>main design,</hi>) let us, who engage our <hi>Posterity</hi> by <hi>Bap<g ref="char:EOLhyphen"/>tism,</hi> to fill up the <hi>vacancies</hi> made by <hi>death</hi> in the <hi>Church</hi> of <hi>Christ;</hi> take a proportionable care of their <hi>Education;</hi> ground them throughly in all true <hi>Catho<g ref="char:EOLhyphen"/>lick Principles,</hi> and <hi>inure</hi> them constantly to the pra<g ref="char:EOLhyphen"/>ctice of the <hi>undoubted duties</hi> of <hi>Christianity,</hi> from their <hi>very Infancy:</hi> For we are told by God himself, that is the most probable way to keep them from <hi>Apostacy. A child so trained up in the way he should go, will not when old depart from it.</hi>
+               <note place="margin">Prov. 22. 6.</note>
+            </p>
+            <p>But, especially, let us not only by <hi>verbal,</hi> but also by <hi>real instruction</hi> (I mean, holy example, in <hi>living</hi> and <hi>dying well,</hi> confirm them in the <hi>belief</hi> of the <hi>Re<g ref="char:EOLhyphen"/>wards</hi> and <hi>Punishments</hi> of the <hi>world to come;</hi> together with an <hi>assurance,</hi> that we do firmly <hi>believe</hi> them our selves. For, (as my <hi>third observation</hi> tells you,)</p>
+            <p>The <hi>rational assurance which succeeding Christians have</hi>
+               <note place="margin">
+                  <hi>Prop.</hi> III.</note>
+               <hi>of their Predecessors interest in a future Resurrection to a blessed immortality, conduceth much to the confirmation of them in the belief and practice of Christianity.</hi>
+            </p>
+            <p>For the <hi>Apostle</hi>'s <hi>Argument</hi> in the <hi>Text,</hi> is plainly founded upon this <hi>supposition,</hi> that <hi>those that are baptized for the dead,</hi> would be apt to <hi>waver,</hi> (as those that were at a loss <hi>what to do;</hi>) except they were <hi>rationally assured,</hi> that those in whose places they <hi>succeed,</hi> should
+<pb n="20" facs="tcp:64010:12"/>
+               <hi>rise again,</hi> to that <hi>blessed immortality</hi> which in this <hi>Chapter</hi> he doth so industriously <hi>assert,</hi> and <hi>illustrate.</hi> And (by consequence) intimates, that the <hi>belief</hi> here<g ref="char:EOLhyphen"/>of would contribute much to their <hi>settlement.</hi> Where<g ref="char:EOLhyphen"/>in he makes use of a motive, which is, (in its due place) so rational in it self, and so agreeable to humanity to be influenced by: That it hath always and in all Ages of the world, been highly prevalent with those of all <hi>Religions:</hi> Men every where having been concerned for their <hi>several</hi> ways of Worship, according to the <hi>persuasions</hi> they had imbibed, (whether true, or false,) of the <hi>happy future state</hi> of some at least, that had been <hi>founders,</hi> or <hi>eminent Professors</hi> of them.</p>
+            <p>For though indeed, it be but a weak Argument, <hi>alone,</hi> for any man to <hi>chuse</hi> a <hi>Religion</hi> upon; that his <hi>Fore<g ref="char:EOLhyphen"/>fathers lived and died in it,</hi> and he has such, and such <hi>Reasons</hi> which prevail with him to think them transla<g ref="char:EOLhyphen"/>ted to an <hi>happy estate</hi> in <hi>another world:</hi> (a fallacy where<g ref="char:EOLhyphen"/>with all the <hi>Romanists</hi> a while since fixed divers of this Nation that were wavering, to their <hi>Communion,</hi> and prejudic'd them, against the <hi>Reformation:</hi>) Yet it may be an <hi>inducement</hi> of great force to be used <hi>together</hi> with, and in <hi>subordination</hi> to, those other grounds and motives, which upon diligent inquiry into the nature of any Religion, do <hi>principally</hi> sway his <hi>Election;</hi> that he hath as good evidence, as matters of that sort will bear, of the <hi>felicity of those,</hi> (at least <hi>some</hi> of those) who have <hi>died</hi> in it.</p>
+            <p>Wherefore, God himself, knowing how much <hi>In<g ref="char:EOLhyphen"/>stances</hi> and <hi>Examples</hi> tending to our rational satisfacti<g ref="char:EOLhyphen"/>on in this particular, are wont to influence the genera<g ref="char:EOLhyphen"/>lity of mankind, (as I but now told you:) hath in <hi>all Ages</hi> of the world, (more or less,) condescended
+<pb n="21" facs="tcp:64010:12"/> to recommend his true <hi>Religion</hi> to men, by some <hi>indu<g ref="char:EOLhyphen"/>bitable attestations</hi> concerning the <hi>Eternal blessedness</hi> of divers Persons, who have eminently <hi>professed</hi> it, <hi>lived</hi> as great <hi>Examples,</hi> in conformity to it, or <hi>dyed</hi> as <hi>Champions</hi> for it.</p>
+            <p>Thus in the <hi>old world,</hi> before the deluge, he dealt with <hi>Enoch;</hi> whom, having <hi>walked with God</hi> above Three hundred Years, (that is, been an <hi>eminently good and holy man</hi> for so long time on Earth,) God took (as says <hi>Moses) Gen. 5. 24. Translated, (i. e.</hi> to an happy estate in another world) <hi>without seeing of Death,</hi> (says the Apo<g ref="char:EOLhyphen"/>stle) <hi>Heb.</hi> 11. 5. having <hi>before his translation</hi> attested, by some Divine Testimony or other, <hi>that he pleased God:</hi> and that Testimony such, (as in the <hi>Verse</hi> fol<g ref="char:EOLhyphen"/>lowing it is exprest,) as might give grounds of <hi>belief</hi> to mankind, not only <hi>that there is a God, but also that there is such a God,</hi> as is a <hi>rewarder of them that dili<g ref="char:EOLhyphen"/>gently seek him,</hi> as <hi>Enoch</hi> had done.</p>
+            <p>I will not positively assert, that he dealt in the same manner with <hi>Melchisedek</hi> afterward; but it may (I think,) deserve our consideration whether that <hi>Phrase</hi> of the <hi>Apostle</hi> concerning him, that he was <hi>one that had no end of life,</hi> Heb. 7. 3. may not admit of a like In<g ref="char:EOLhyphen"/>terpretation with that of <hi>Enoch</hi> not seeing of <hi>death</hi> be<g ref="char:EOLhyphen"/>fore mentioned.</p>
+            <p>But sure I am, that in reference to <hi>Abraham, Isaac,</hi> and <hi>Jacob,</hi> God's known owning them in a special manner whilst they lived, gave all the <hi>Jewish</hi> Nation such an assurance of their <hi>felicity</hi> after <hi>death,</hi> as yield<g ref="char:EOLhyphen"/>ed our Saviour the occasion of mentioning it as a thing generally believed, describing that felicity too which good and holy men of all Countries in the world shall enjoy in Heaven, by the Periphrasis of <hi>sitting with
+<pb n="22" facs="tcp:64010:13"/> them in the Kingdom of God,</hi> Math. 8. 11. The <hi>ground</hi> of which <hi>assurance,</hi> God himself farther strengthned, when he owned himself to <hi>Moses</hi> to be <hi>their God,</hi> so many years after their <hi>Deaths.</hi> Which attestation of his, included not only the <hi>blessedness</hi> of their <hi>separated souls;</hi> but also the certainty of the <hi>future Resurrection</hi> of their <hi>Bodies;</hi> and was certainly so understood, by those before whom our <hi>Saviour</hi> quoted that <hi>Text</hi> for proof thereof. For otherwise that <hi>Argument</hi> he draws from <hi>that Text,</hi> had been too weak to <hi>silence</hi> the cavilling <hi>Sadduces,</hi> as St. <hi>Matthew</hi> says it did, <hi>Mat.</hi> 22. 34. nor would the <hi>Scribes,</hi> (the most critical Text-men among the <hi>Jews</hi>) have approved his arguing in these terms. <hi>Master thou hast well said,</hi> as St. <hi>Luke</hi> tells us, <hi>Chap.</hi> 20. 39.</p>
+            <p>The many attestations which God gave to <hi>Moses</hi> as his <hi>faithful Servant</hi> whiles he <hi>lived;</hi> and his send<g ref="char:EOLhyphen"/>ing an <hi>Archangel</hi> (as St. <hi>Jude</hi> intimates) to <hi>interr</hi>
+               <note place="margin">Jude 9. Deut. 34. 6.</note> his <hi>Body,</hi> when <hi>Dead,</hi> in a <hi>place unknown</hi> to <hi>men,</hi> (and probably, to the <hi>Devil</hi> himself, which might be the ground of that <hi>Contention</hi> that <hi>Apostle</hi> speaks of, be<g ref="char:EOLhyphen"/>twixt them;) gave the <hi>Jews</hi> a <hi>like assurance</hi> of his <hi>happy end:</hi> as also did God's taking up <hi>Elijah</hi> in a <hi>fiery Chariot,</hi> give them an ocular Demonstration of his removal to an <hi>estate of blessedness</hi> without <hi>dying. 2 Kings</hi> 2. 11.</p>
+            <p>These great <hi>Instances,</hi> to the end before mentio<g ref="char:EOLhyphen"/>ned, were given by God to Mankind under the <hi>Na<g ref="char:EOLhyphen"/>tural, Patriarchal,</hi> and <hi>Jewish Religions.</hi>
+            </p>
+            <p>But because such, before the <hi>Publication</hi> of the <hi>Gos<g ref="char:EOLhyphen"/>pel</hi> in the World, were but rare: therefore our Sa<g ref="char:EOLhyphen"/>viour is said, (partly, in this respect,) to have <hi>brought
+<pb n="23" facs="tcp:64010:13"/> life and immortality to light,</hi> 2 Tim. 1. 10. which comparatively to the <hi>light</hi> they were shewn in un<g ref="char:EOLhyphen"/>der the <hi>Evangelical Administration,</hi> had in a great measure, till then, layen in the Dark.</p>
+            <p>For our Saviour Christ did not only <hi>promise eter<g ref="char:EOLhyphen"/>nal Life</hi> to his Followers, from God, with the Te<g ref="char:EOLhyphen"/>stimony of a very great variety of <hi>Miracles:</hi> but also gave them, and all to whom his Gospel was to be preached, from them, an unquestionable <hi>instance</hi> there<g ref="char:EOLhyphen"/>of, in his own Person <hi>raised from the dead,</hi> and visibly <hi>received up unto the Glory;</hi> of which he had before given to some of them a <hi>representation,</hi> in his <hi>transfi<g ref="char:EOLhyphen"/>guration</hi> upon the <hi>holy Mount,</hi> Luk. 9. 28: and with<g ref="char:EOLhyphen"/>al, assured his <hi>Disciples,</hi> when he was about to <hi>depart</hi> from them into it, that in those blessed <hi>Mansions</hi> he was going to, he would <hi>prepare a place for them,</hi> Joh.<note place="margin">Heb. 6. 20.</note> 14. 2. as their <hi>Forerunner;</hi> and would again <hi>come thence to receive them,</hi> and conduct them thither; that <hi>where he was, they might be also;</hi> and that, in the high Dignity of being even his <hi>Assessors</hi> in the <hi>Regeneration,</hi> for so he calls the <hi>Resurrection, Math.</hi> 19. 28. And the same <hi>Felicity</hi> (as it was <hi>exemplified</hi> in his <hi>own Person,</hi>) he also faithfully <hi>promiseth</hi> to all those that should in any Age <hi>believe in him through their word.</hi> John 17. 2. but especially, to those that <hi>suffer with him,</hi> that is in <hi>conformity</hi> to him, and for his <hi>cause, 2 Tim.</hi> 2. and for their greater <hi>encouragement</hi> to be<g ref="char:EOLhyphen"/>lieve these promises, took care to <hi>represent</hi> to St. <hi>John</hi> the <hi>numerous Host</hi> of preceeding <hi>Confessors,</hi> and <hi>Mar<g ref="char:EOLhyphen"/>tyrs, a multitude which none could number,</hi> in their <hi>glo<g ref="char:EOLhyphen"/>rious Robes</hi> of <hi>Triumph, Rev.</hi> 7. 14, 15. and caused the same holy Apostle to enter it for an holy <hi>Record,</hi> by <hi>Writing,</hi> as a thing in his hearing proclaimed from
+<pb n="24" facs="tcp:64010:14"/>
+               <hi>Heaven,</hi> concerning all others that <hi>die in him,</hi> that they were from thenceforth <hi>blessed, Rev.</hi> 14. 13.</p>
+            <p>Upon all which assurances, so exemplified, 'tis no wonder, if such multitudes as we read of, crouded into the Church to be <hi>baptized,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>in the room of the deceased Martyrs,</hi> even in the midst of those <hi>Persecutions</hi> and <hi>Deaths,</hi> accompanied with the <hi>cruel<g ref="char:EOLhyphen"/>lest Circumstances</hi> which attended the <hi>first Plantation</hi> of <hi>Christianity</hi> for some hundreds of Years: Of whom many <hi>offered</hi> themselves, when <hi>unsought</hi> for, even to be <hi>baptized</hi> with that <hi>baptism</hi> of <hi>Blood,</hi> with which our Saviour (according as himself expresseth it, was<note place="margin">Math. 20. 22.</note>
+               <hi>baptized:</hi> that they successively <hi>ran with patience the race of</hi> Martyrdom that was <hi>set before them:</hi> seeing they had not only the <hi>Lord Jesus,</hi> (both in his humi<g ref="char:EOLhyphen"/>liation and exaltation) but also, so thick a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>cloud of Witnesses,</hi> or holy <hi>Martyrs</hi> for their<note place="margin">Heb. 12. 1, 2, 3, 4.</note> encouragement, <hi>set before them too.</hi> And <hi>were there<g ref="char:EOLhyphen"/>fore not wearied, nor fainted in their minds.</hi>
+            </p>
+            <p>No wonder, that (according to the advice of the same <hi>Apostle, Heb. 6. 12,) they followed</hi> them, <hi>who,</hi> they were assured, <hi>through Faith and Patience already inherited the promises:</hi> and embraced and maintain<g ref="char:EOLhyphen"/>ed the <hi>Faith of those guides that had spoken to them the word of God, (i. e.</hi> set before them the <hi>glorious Promi<g ref="char:EOLhyphen"/>ses</hi> of the Gospel,) as men that <hi>considered again</hi> and<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Heb. 13. 7:</note>
+               <hi>again,</hi> the <hi>glorious end of their conversation;</hi> and being assured, that <hi>Jesus Christ is the same</hi> faithful Rewarder of his faithful Servants, both <hi>yesterday, to day, and</hi>
+               <note place="margin">v. 8.</note>
+               <hi>forever,: i. e.</hi> in all time <hi>past, present, and to come:</hi> and by consequence, if they followed their holy Pre<g ref="char:EOLhyphen"/>decessors <hi>steps,</hi> he would bring them also to the same <hi>end,</hi> to which they had happily arrived.</p>
+            <pb n="25" facs="tcp:64010:14"/>
+            <p>And the <hi>same Ʋse,</hi> (Beloved,) we ought all to make, of the <hi>same Consideration.</hi> We are, generally, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>listed</hi> into <hi>Christ</hi>'s <hi>Troops</hi> in the <hi>rooms</hi> of our deceased <hi>Christian Ancestors;</hi> very many of whom, have not only <hi>professed,</hi> but also greatly <hi>cre<g ref="char:EOLhyphen"/>dited</hi> the <hi>Reformed Christianity</hi> of these Nations, both with Learned <hi>Pens,</hi> and Holy <hi>Lives,</hi> and Comforta<g ref="char:EOLhyphen"/>ble <hi>Deaths:</hi> and of whom we no way doubt, but that they are, (though without <hi>Romish Canonization,</hi>) Glorious <hi>Saints</hi> in the <hi>Kingdom of Heaven:</hi> as having li<g ref="char:EOLhyphen"/>ved and died with those <hi>Characters,</hi> which the Scripture gives of those, who (by the Attestation of the Holy Spirit therein) have in all Ages of the World, gone thither before them.</p>
+            <p>And I should think the wish of <hi>Balaam,</hi> on such an occasion, should be natural to all mankind; That they <hi>may dye the death of the righteous, gone before them, and that their latter end may be like theirs:</hi> for the <hi>Wish</hi> (tho a bad man's) is good; provided, that it be accom<g ref="char:EOLhyphen"/>panied with an <hi>industrious</hi> use of the <hi>means</hi> by which it is to be effected.</p>
+            <p>But surely those do not take the <hi>way</hi> to it, that <hi>live too much like him, going astray, and loving the wages of unrighteousness,</hi> (as St. <hi>Peter</hi> says of him, he did, 2 <hi>Pet.</hi> 2. 15.) and yet (with him) hoping that God will indulge them in those <hi>practises</hi> in which, contrary to his <hi>declared Will,</hi> they allow themselves, so as to <hi>fulfil the desires of the flesh, and of the mind,</hi> and like <hi>brute</hi>
+               <note place="margin">1 Pet. 4 3, 4.</note>
+               <hi>beasts,</hi> walk in all manner of <hi>lasciviousness, excess of wine,</hi> and <hi>riots</hi> of all sorts, reproaching withal, and <hi>speaking evil of those that will not run with them</hi> in the same race of <hi>extravagant debaucheries.</hi> Such persons certainly, must expect to <hi>part companies</hi> with them at
+<pb n="26" facs="tcp:64010:15"/>
+               <hi>death,</hi> whose <hi>Examples</hi> they refused to <hi>live</hi> by: and it will be one of the <hi>greatest aggravations</hi> of their <hi>calamity</hi> for ever, which our Saviour threatens the <hi>degenerous Jews</hi> withal, that they shall see their <hi>pious Ancestors in</hi>
+               <note place="margin">Luke 13. 28.</note>
+               <hi>the Kingdom of God, and find themselves thrust out.</hi>
+            </p>
+            <p>Let us, therefore, who <hi>wish,</hi> and <hi>hope</hi> to <hi>sit down with them</hi> in that <hi>Kingdom</hi> hereafter, follow the <hi>track</hi> of their <hi>steps</hi> here; and then we may warrantably ex<g ref="char:EOLhyphen"/>pect, that at the <hi>Resurrection of the just,</hi> we shall <hi>par<g ref="char:EOLhyphen"/>take</hi> with them in all those <hi>happy circumstances</hi> in which they shall then, in conjunction with all holy men of all ages, for ever be.</p>
+            <p>This, the being <hi>baptized for our dead Predecessors</hi> in the <hi>general Profession of Christianity</hi> (according to the <hi>larger sense</hi> of my <hi>Text,</hi>) calls for, from us all. But, considering what a <hi>thick cloud</hi> of those our <hi>Predecessors,</hi> in this very nation, were also <hi>Confessors,</hi> and <hi>Martyrs</hi> for our holy Religion, in which they died; and of whom, I think I may say, that in holy <hi>Courage</hi> and <hi>Resolution</hi> to <hi>dye,</hi> and encouraging <hi>comfortable circum<g ref="char:EOLhyphen"/>stances</hi> in the <hi>manner</hi> of their <hi>dying,</hi> they were not infe<g ref="char:EOLhyphen"/>rior to the most <hi>Primitive Martyrs:</hi> It will not be amiss, in the <hi>close</hi> of this <hi>Discourse,</hi> farther to tell you; that it is not impossible some of us may also be called to those <hi>Trials,</hi> wherein we may in those particulars too, which relate to suffering, stand in need of setting before us their <hi>Examples.</hi>
+            </p>
+            <p>I am sure, it was <hi>no long time since,</hi> that the most of us had before us, (in humane probability,) no other <hi>Prospect,</hi> than that, of <hi>succeeding</hi> them in their <hi>Chains,</hi> their <hi>Racks</hi> and <hi>Tortures,</hi> and <hi>cruel Executi<g ref="char:EOLhyphen"/>ons:</hi> And surely we had done so before this time, but that God by an unexpected Providence, raised us up a
+<pb n="27" facs="tcp:64010:15"/>
+               <hi>Deliverer,</hi> who, (to his <hi>own</hi> irreparable <hi>hazard,</hi> if he had <hi>miscarried</hi> in the Attempt,) has yet saved us, <hi>all, beyond our hopes,</hi> and <hi>many</hi> of us even <hi>against our wills,</hi> from the <hi>hands of those that hated us:</hi> and hitherto respi<g ref="char:EOLhyphen"/>ted us from the <hi>Fiery Trial.</hi> By which, if there be any, who, being prepared for it themselves, may think it an injury done them, that they are thereby defeated of an opportunity of <hi>witnessing</hi> to the <hi>Truth</hi> of that <hi>Doctrine of Allegiance</hi> and <hi>Passive Obedience,</hi> which <hi>beyond others</hi> they have <hi>contended</hi> for, by a signally <hi>Loyal Martyrdom:</hi> yet one would think they might without difficulty be pre<g ref="char:EOLhyphen"/>vailed withal, <hi>to forgive him this wrong:</hi> as consider<g ref="char:EOLhyphen"/>ing, that to those many others who were not so well<note place="margin">1 <hi>Cor.</hi> 12. 23.</note> disposed for <hi>present suffering</hi> as they, ('tis to be hoped,) were, it was certainly a very seasonable kindness, to pro<g ref="char:EOLhyphen"/>cure them such a reprieve from it, as might give them a larger time to provide for it: and that they them<g ref="char:EOLhyphen"/>selves, though hindered from being <hi>Martyrs actu,</hi> yet, (being such, <hi>voto,</hi> in a ready disposition to have been so, if God had offered them the <hi>opportunity,</hi>) are en<g ref="char:EOLhyphen"/>dangered to lose nothing of the <hi>weight</hi> of their <hi>Crown,</hi> from that good God, who <hi>accepts</hi> the <hi>will,</hi> (where men <hi>can</hi> do <hi>no more</hi> than will) for the <hi>deed,</hi> and <hi>rewards</hi> it accordingly.</p>
+            <p>However, I think, I may presume to <hi>predict,</hi> that our <hi>Posterity</hi> will hardly be of their mind, if the suc<g ref="char:EOLhyphen"/>cess of the present Agitations in all <hi>Europe</hi> fall not much beneath expectation: for they will then find themselves <hi>secured</hi> in the peaceable <hi>Possession</hi> of their <hi>Holy Religion,</hi> and all their other <hi>dearest Enjoyments,</hi> which surely they will value the more, because reco<g ref="char:EOLhyphen"/>vered from so desperate an hazard; and in the grateful Sense thereof, rise up to <hi>call him blessed</hi> (whatever we
+<pb n="28" facs="tcp:64010:16"/> think of him) <hi>who hath wrought so great a Deliverance</hi> for our <hi>Israel,</hi> at so needful a Season.</p>
+            <p>But yet, I would not have any of us to look upon our selves, as so far secured from all <hi>Danger;</hi> that we may say (with <hi>Agag) surely the bitterness of Death</hi> is (totally) <hi>past,</hi> as being taught by <hi>Experience,</hi> not ma<g ref="char:EOLhyphen"/>ny weeks since, how unexpectedly new occasions of just fear may return upon us; such as none but an All-seeing <hi>Eye</hi> could <hi>foresee,</hi> and no <hi>Hand</hi> but an <hi>Omni<g ref="char:EOLhyphen"/>potent</hi> one could deliver us from.</p>
+            <p>Which occasionally <hi>minds me,</hi> and calls on me to <hi>mind you,</hi> how much we all are obliged to a grateful acknowledgment of the mercy of that Divine Provi<g ref="char:EOLhyphen"/>dence, which, when we were almost surprised at una<g ref="char:EOLhyphen"/>wares with a <hi>dreadful Invasion</hi> from those, who, (hav<g ref="char:EOLhyphen"/>ing been bred to the practice of such Barbarities in our Neighbour Nations,) would (in pursuance of the <hi>Prin<g ref="char:EOLhyphen"/>ciples</hi> of their <hi>blind Devotion,</hi>) have thought it a me<g ref="char:EOLhyphen"/>ritorious Service to God to have exercised the same up<g ref="char:EOLhyphen"/>on us: hath <hi>broken that design,</hi> ('tis to be hoped, for some years, at least,) by <hi>breaking their Ships</hi> (as those<note place="margin">
+                  <hi>Psal.</hi> 48, 7.</note> of <hi>Tarshish</hi> in the <hi>Psalmist;</hi>) and that in the same man<g ref="char:EOLhyphen"/>ner too, wherein that <hi>Text</hi> expresseth it, <hi>with an East Wind:</hi> and given them cause to <hi>howl, because their</hi>
+               <note place="margin">
+                  <hi>Isa.</hi> 23. 14.</note>
+               <hi>strength is laid waste.</hi>
+            </p>
+            <p>A <hi>Providence,</hi> by which we are indeed for the pre<g ref="char:EOLhyphen"/>sent, <hi>safe:</hi> but yet ought not to be tempted thereby, to be <hi>secure.</hi> It is wisdom, to prepare for the <hi>worst</hi> that <hi>may come,</hi> though it never <hi>do come:</hi> and to <hi>arm our selves,</hi> (as St. <hi>Peter,</hi> in this very case of being called <hi>to suffer</hi>) adviseth,) <hi>with the same mind</hi> with the holy <hi>Martyrs</hi> who have gone to Heaven in a <hi>Fiery-Chariot,</hi> (the Flames, I mean wherein they suffered) <hi>before us:</hi>
+               <pb n="29" facs="tcp:64010:16"/> as being assured, that God (in answer to that <hi>devout Petition</hi> which in our <hi>Liturgy</hi> we offer to him with re<g ref="char:EOLhyphen"/>lation to them) will, if we <hi>follow their Examples make us partakers with them of his Heavenly Kingdom.</hi>
+            </p>
+            <p>But if (to draw to a conclusion,) by God's tender and indulgent Providence continuing to watch over us for our Protection, all those <hi>Fears</hi> with which we dread the <hi>Oppressor-general</hi> of all <hi>Europe,</hi> shall in the Issue be proved <hi>vain,</hi> and we of this Generation shall (after all these dangers,) be permitted to <hi>die in our Nests,</hi> and be <hi>gathered to our Graves in Peace:</hi> We ought nevertheless to make it our great care, that by living holily, we may <hi>die comfortably,</hi> and <hi>finish our course with that Joy</hi> and <hi>Consolation in the</hi> Lord, which may justly give those that are <hi>baptized</hi> to fill <hi>our rooms,</hi> encourage<g ref="char:EOLhyphen"/>ment to <hi>follow our Examples,</hi> with a well grounded Assurance, that in so doing, they shall at the last, en<g ref="char:EOLhyphen"/>joy with us, all the consummate <hi>Happiness</hi> of a <hi>blessed Resurrection.</hi> Which <hi>God grant</hi> us all for his sake, who <hi>is the Resurrection, and the Life;</hi> and who hath by our <hi>Baptism, begotten us again to a lively hope of ours, by his own Resurrection from the dead.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
